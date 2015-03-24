@@ -1,2 +1,4 @@
-# quarterup
-QuarterUp - team collaboration and goal setting platform
+# Quarterup
+QuarterUp - a team collaboration and goal setting platform
+
+
